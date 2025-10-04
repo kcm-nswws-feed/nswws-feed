@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Met Office Warnings Feed</title>
+  <link rel="self" type="application/atom+xml" href="https://prd.nswws.api.metoffice.gov.uk/v1.0/objects/feed/" />
+  <link rel="related" type="application/vnd.geo+json" href="https://prd.nswws.api.metoffice.gov.uk/v1.0/objects/issued/7350999d-03b0-4e1f-bfa4-d3abfe69ef69/" title="Latest version of all issued warnings" />
+  <author>
+    <name>Met Office</name>
+    <uri>https://www.metoffice.gov.uk</uri>
+  </author>
+  <id>urn:uuid:7350999d-03b0-4e1f-bfa4-d3abfe69ef69</id>
+  <rights>Crown Copyright Â© 2025 Met Office</rights>
+  <updated>2025-10-04T08:29:23Z</updated>
+  <entry>
+    <title>Update</title>
+    <link rel="alternate" type="application/vnd.geo+json" href="https://prd.nswws.api.metoffice.gov.uk/v1.0/objects/updated/bf6a024c-6dba-40a9-ab11-eb22f3db6668/" title="Warnings Updated" />
+    <id>urn:uuid:bf6a024c-6dba-40a9-ab11-eb22f3db6668</id>
+    <updated>2025-10-04T08:29:23Z</updated>
+    <summary>Warnings update that can include new warnings and warnings state changes from ISSUED to CANCELLED or EXPIRED.</summary>
+  </entry>
+  <entry>
+    <title>Update</title>
+    <link rel="alternate" type="application/vnd.geo+json" href="https://prd.nswws.api.metoffice.gov.uk/v1.0/objects/updated/12926b8a-a486-49a3-a7bc-762f5b91e1a4/" title="Warnings Updated" />
+    <id>urn:uuid:12926b8a-a486-49a3-a7bc-762f5b91e1a4</id>
+    <updated>2025-10-03T23:00:10Z</updated>
+    <summary>Warnings update that can include new warnings and warnings state changes from ISSUED to CANCELLED or EXPIRED.</summary>
+  </entry>
+  <entry>
+    <title>Update</title>
+    <link rel="alternate" type="application/vnd.geo+json" href="https://prd.nswws.api.metoffice.gov.uk/v1.0/objects/updated/8776e2ed-ece1-469c-bafe-49a2be2219bd/" title="Warnings Updated" />
+    <id>urn:uuid:8776e2ed-ece1-469c-bafe-49a2be2219bd</id>
+    <updated>2025-10-03T19:00:10Z</updated>
+    <summary>Warnings update that can include new warnings and warnings state changes from ISSUED to CANCELLED or EXPIRED.</summary>
+  </entry>
+  <entry>
+    <title>Update</title>
+    <link rel="alternate" type="application/vnd.geo+json" href="https://prd.nswws.api.metoffice.gov.uk/v1.0/objects/updated/61e857fc-4fd0-4c2e-b997-b8c1eb821b37/" title="Warnings Updated" />
+    <id>urn:uuid:61e857fc-4fd0-4c2e-b997-b8c1eb821b37</id>
+    <updated>2025-10-03T09:47:53Z</updated>
+    <summary>Warnings update that can include new warnings and warnings state changes from ISSUED to CANCELLED or EXPIRED.</summary>
+  </entry>
+  <entry>
+    <title>Update</title>
+    <link rel="alternate" type="application/vnd.geo+json" href="https://prd.nswws.api.metoffice.gov.uk/v1.0/objects/updated/a724fde6-1bb9-4cee-945e-cc0ccbfda484/" title="Warnings Updated" />
+    <id>urn:uuid:a724fde6-1bb9-4cee-945e-cc0ccbfda484</id>
+    <updated>2025-10-03T09:47:30Z</updated>
+    <summary>Warnings update that can include new warnings and warnings state changes from ISSUED to CANCELLED or EXPIRED.</summary>
+  </entry>
+</feed>
