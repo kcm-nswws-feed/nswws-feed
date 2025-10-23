@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Met Office Warnings Feed</title>
+  <link rel="self" type="application/atom+xml" href="https://prd.nswws.api.metoffice.gov.uk/v1.0/objects/feed/" />
+  <link rel="related" type="application/vnd.geo+json" href="https://prd.nswws.api.metoffice.gov.uk/v1.0/objects/issued/2c0d12a0-95d4-4bbd-86d6-04dea4229a94/" title="Latest version of all issued warnings" />
+  <author>
+    <name>Met Office</name>
+    <uri>https://www.metoffice.gov.uk</uri>
+  </author>
+  <id>urn:uuid:2c0d12a0-95d4-4bbd-86d6-04dea4229a94</id>
+  <rights>Crown Copyright Â© 2025 Met Office</rights>
+  <updated>2025-10-23T14:00:10Z</updated>
+  <entry>
+    <title>Update</title>
+    <link rel="alternate" type="application/vnd.geo+json" href="https://prd.nswws.api.metoffice.gov.uk/v1.0/objects/updated/7fd08ccc-a428-41cd-bdc3-c0bd97c60703/" title="Warnings Updated" />
+    <id>urn:uuid:7fd08ccc-a428-41cd-bdc3-c0bd97c60703</id>
+    <updated>2025-10-23T14:00:10Z</updated>
+    <summary>Warnings update that can include new warnings and warnings state changes from ISSUED to CANCELLED or EXPIRED.</summary>
+  </entry>
+  <entry>
+    <title>Update</title>
+    <link rel="alternate" type="application/vnd.geo+json" href="https://prd.nswws.api.metoffice.gov.uk/v1.0/objects/updated/e6ac45e1-c8cb-4d1a-abf1-ee36c41fe3be/" title="Warnings Updated" />
+    <id>urn:uuid:e6ac45e1-c8cb-4d1a-abf1-ee36c41fe3be</id>
+    <updated>2025-10-23T09:30:27Z</updated>
+    <summary>Warnings update that can include new warnings and warnings state changes from ISSUED to CANCELLED or EXPIRED.</summary>
+  </entry>
+  <entry>
+    <title>Update</title>
+    <link rel="alternate" type="application/vnd.geo+json" href="https://prd.nswws.api.metoffice.gov.uk/v1.0/objects/updated/b88a1f26-41e9-4a5b-ba1e-56a39bd15c19/" title="Warnings Updated" />
+    <id>urn:uuid:b88a1f26-41e9-4a5b-ba1e-56a39bd15c19</id>
+    <updated>2025-10-23T09:21:01Z</updated>
+    <summary>Warnings update that can include new warnings and warnings state changes from ISSUED to CANCELLED or EXPIRED.</summary>
+  </entry>
+  <entry>
+    <title>Update</title>
+    <link rel="alternate" type="application/vnd.geo+json" href="https://prd.nswws.api.metoffice.gov.uk/v1.0/objects/updated/2a496645-6f3e-41a5-84ff-a7c66e8d23e4/" title="Warnings Updated" />
+    <id>urn:uuid:2a496645-6f3e-41a5-84ff-a7c66e8d23e4</id>
+    <updated>2025-10-23T09:18:27Z</updated>
+    <summary>Warnings update that can include new warnings and warnings state changes from ISSUED to CANCELLED or EXPIRED.</summary>
+  </entry>
+  <entry>
+    <title>Update</title>
+    <link rel="alternate" type="application/vnd.geo+json" href="https://prd.nswws.api.metoffice.gov.uk/v1.0/objects/updated/dd19a888-7ca5-42dc-9674-288a833056c5/" title="Warnings Updated" />
+    <id>urn:uuid:dd19a888-7ca5-42dc-9674-288a833056c5</id>
+    <updated>2025-10-23T09:14:18Z</updated>
+    <summary>Warnings update that can include new warnings and warnings state changes from ISSUED to CANCELLED or EXPIRED.</summary>
+  </entry>
+  <entry>
+    <title>Update</title>
+    <link rel="alternate" type="application/vnd.geo+json" href="https://prd.nswws.api.metoffice.gov.uk/v1.0/objects/updated/59170f64-4550-4949-9a45-1c6a4630ee6c/" title="Warnings Updated" />
+    <id>urn:uuid:59170f64-4550-4949-9a45-1c6a4630ee6c</id>
+    <updated>2025-10-22T16:46:41Z</updated>
+    <summary>Warnings update that can include new warnings and warnings state changes from ISSUED to CANCELLED or EXPIRED.</summary>
+  </entry>
+  <entry>
+    <title>Update</title>
+    <link rel="alternate" type="application/vnd.geo+json" href="https://prd.nswws.api.metoffice.gov.uk/v1.0/objects/updated/42fbcc01-e5c3-4148-ad26-07f2e88ebe45/" title="Warnings Updated" />
+    <id>urn:uuid:42fbcc01-e5c3-4148-ad26-07f2e88ebe45</id>
+    <updated>2025-10-22T16:46:33Z</updated>
+    <summary>Warnings update that can include new warnings and warnings state changes from ISSUED to CANCELLED or EXPIRED.</summary>
+  </entry>
+</feed>
