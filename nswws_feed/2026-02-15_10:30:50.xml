@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Met Office Warnings Feed</title>
+  <link rel="self" type="application/atom+xml" href="https://prd.nswws.api.metoffice.gov.uk/v1.0/objects/feed/" />
+  <link rel="related" type="application/vnd.geo+json" href="https://prd.nswws.api.metoffice.gov.uk/v1.0/objects/issued/082d33dd-c283-48ba-ace2-0d8b027fca5c/" title="Latest version of all issued warnings" />
+  <author>
+    <name>Met Office</name>
+    <uri>https://www.metoffice.gov.uk</uri>
+  </author>
+  <id>urn:uuid:082d33dd-c283-48ba-ace2-0d8b027fca5c</id>
+  <rights>Crown Copyright Â© 2026 Met Office</rights>
+  <updated>2026-02-15T10:00:10Z</updated>
+  <entry>
+    <title>Update</title>
+    <link rel="alternate" type="application/vnd.geo+json" href="https://prd.nswws.api.metoffice.gov.uk/v1.0/objects/updated/fbd15980-cdb5-4551-a72a-d44642c73a78/" title="Warnings Updated" />
+    <id>urn:uuid:fbd15980-cdb5-4551-a72a-d44642c73a78</id>
+    <updated>2026-02-15T10:00:10Z</updated>
+    <summary>Warnings update that can include new warnings and warnings state changes from ISSUED to CANCELLED or EXPIRED.</summary>
+  </entry>
+  <entry>
+    <title>Update</title>
+    <link rel="alternate" type="application/vnd.geo+json" href="https://prd.nswws.api.metoffice.gov.uk/v1.0/objects/updated/9dbbc001-1eba-4033-8a38-718c61a7dc18/" title="Warnings Updated" />
+    <id>urn:uuid:9dbbc001-1eba-4033-8a38-718c61a7dc18</id>
+    <updated>2026-02-15T07:15:40Z</updated>
+    <summary>Warnings update that can include new warnings and warnings state changes from ISSUED to CANCELLED or EXPIRED.</summary>
+  </entry>
+  <entry>
+    <title>Update</title>
+    <link rel="alternate" type="application/vnd.geo+json" href="https://prd.nswws.api.metoffice.gov.uk/v1.0/objects/updated/4988fbb7-cfbc-40d8-a016-c31c2c93597a/" title="Warnings Updated" />
+    <id>urn:uuid:4988fbb7-cfbc-40d8-a016-c31c2c93597a</id>
+    <updated>2026-02-14T22:00:10Z</updated>
+    <summary>Warnings update that can include new warnings and warnings state changes from ISSUED to CANCELLED or EXPIRED.</summary>
+  </entry>
+</feed>
