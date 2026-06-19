@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Met Office Warnings Feed</title>
+  <link rel="self" type="application/atom+xml" href="https://prd.nswws.api.metoffice.gov.uk/v1.0/objects/feed/" />
+  <link rel="related" type="application/vnd.geo+json" href="https://prd.nswws.api.metoffice.gov.uk/v1.0/objects/issued/e3f34a6f-0655-48fd-bc3b-9415dd911ddf/" title="Latest version of all issued warnings" />
+  <author>
+    <name>Met Office</name>
+    <uri>https://www.metoffice.gov.uk</uri>
+  </author>
+  <id>urn:uuid:e3f34a6f-0655-48fd-bc3b-9415dd911ddf</id>
+  <rights>Crown Copyright Â© 2026 Met Office</rights>
+  <updated>2026-06-19T09:31:22Z</updated>
+  <entry>
+    <title>Update</title>
+    <link rel="alternate" type="application/vnd.geo+json" href="https://prd.nswws.api.metoffice.gov.uk/v1.0/objects/updated/5bc97666-dcc7-489e-bdc9-d9d68880e96a/" title="Warnings Updated" />
+    <id>urn:uuid:5bc97666-dcc7-489e-bdc9-d9d68880e96a</id>
+    <updated>2026-06-19T09:31:22Z</updated>
+    <summary>Warnings update that can include new warnings and warnings state changes from ISSUED to CANCELLED or EXPIRED.</summary>
+  </entry>
+</feed>
