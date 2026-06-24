@@ -19,9 +19,9 @@
   </entry>
   <entry>
     <title>Update</title>
-    <link rel="alternate" type="application/vnd.geo+json" href="https://prd.nswws.api.metoffice.gov.uk/v1.0/objects/updated/7e3c50a4-add1-4aaf-abba-dec2b3697621/" title="Warnings Updated." />
+    <link rel="alternate" type="application/vnd.geo+json" href="https://prd.nswws.api.metoffice.gov.uk/v1.0/objects/updated/7e3c50a4-add1-4aaf-abba-dec2b3697621/" title="Warnings Updated" />
     <id>urn:uuid:7e3c50a4-add1-4aaf-abba-dec2b3697621</id>
     <updated>2025-08-04T08:52:30Z</updated>
-    <summary>Warnings update that can include new warnings and warnings state changes from ISSUED to CANCELLED or EXPIRED</summary>
+    <summary>Warnings update that can include new warnings and warnings state changes from ISSUED to CANCELLED or EXPIRED.</summary>
   </entry>
 </feed>
